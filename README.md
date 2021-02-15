@@ -1,9 +1,9 @@
 
-- 👋 Hi, I’m @RidheeshAmarthya
-- 👀 I’m interested in Everything 
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on C++ projects
-- 📫 How to reach me -- message me here!
+-  Hi, I’m @RidheeshAmarthya
+-  I’m interested in Computers
+-  I’m currently learning to solve CTFs
+-  I’m looking to collaborate on C++ projects
+:D
 
 <!---
 RidheeshAmarthya/RidheeshAmarthya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
