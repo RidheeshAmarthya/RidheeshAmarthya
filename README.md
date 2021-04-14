@@ -1,8 +1,6 @@
 
 -  Hi, I’m @RidheeshAmarthya
--  I’m interested in Computers
--  I’m currently learning to solve CTFs
--  I’m looking to collaborate on C++ projects
+
 :D
 
 <!---
