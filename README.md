@@ -1,7 +1,7 @@
 
 -  Hi, I’m @RidheeshAmarthya
 
-:D
+🐦
 
 <!---
 RidheeshAmarthya/RidheeshAmarthya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
