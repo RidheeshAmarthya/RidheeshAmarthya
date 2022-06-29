@@ -1,7 +1,5 @@
 
--  Hi, I’m @RidheeshAmarthya
-
-🐦
+-  Hi, I’m @RidheeshAmarthya 🐦
 
 <h1> Welcome! <img src="https://github.com/RidheeshAmarthya/RidheeshAmarthya/blob/main/wallpaper.gif"> </h1>
 
