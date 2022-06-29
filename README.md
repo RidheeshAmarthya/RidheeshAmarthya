@@ -8,6 +8,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RidheeshAmarthya&hide=javascript,css,scsshtml&theme=dark)
 
-<a href="https://github.com/RidheeshAmarthya/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidheeshAmarthya&layout=compact&theme=dark&hide_border=true" /></a>
+<a href="https://github.com/RidheeshAmarthya/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidheeshAmarthya&hide=javascript,css,scsshtml&layout=compact&theme=dark" /></a>
 
 ![Visitor Count](https://profile-counter.glitch.me/{RidheeshAmarthya}/count.svg) 
