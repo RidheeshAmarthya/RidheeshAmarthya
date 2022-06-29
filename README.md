@@ -4,7 +4,7 @@
 
 <h2> Welcome to my GitHub! <br><img src="https://github.com/RidheeshAmarthya/RidheeshAmarthya/blob/main/wallpaper.gif"></h1>
 
-![John's github stats](https://github-readme-stats.vercel.app/api?username=RidheeshAmarthya&count_private=true&show_icons=true&theme=dark)
+![Ridheesh's github stats](https://github-readme-stats.vercel.app/api?username=RidheeshAmarthya&count_private=true&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RidheeshAmarthya&hide=javascript,css,scsshtml&theme=dark)
 
