@@ -9,4 +9,7 @@
 
 <a href="https://github.com/RidheeshAmarthya/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidheeshAmarthya&hide=javascript,css,scsshtml&layout=compact&theme=dark" /></a>
 
+Some of my old work:
+https://ridheeshamarthya.github.io/Assignment0-551290.html
+
 ![Visitor Count](https://profile-counter.glitch.me/{RidheeshAmarthya}/count.svg) 
