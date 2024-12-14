@@ -7,8 +7,6 @@
 ![Visitor Count](https://profile-counter.glitch.me/{RidheeshAmarthya}/count.svg)
 
 
----
-
 # 📌 **Pinned Projects**
 
 ### 🌌 **[Weenix Operating System](https://github.com/RidheeshAmarthya/weenix-public)**  
