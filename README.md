@@ -5,7 +5,6 @@
 ![Visitor Count](https://profile-counter.glitch.me/{RidheeshAmarthya}/count.svg)
 <img src="https://github.com/RidheeshAmarthya/RidheeshAmarthya/blob/main/wallpaper.gif">
 
-
 # 📌 **Cool Projects**
 
 ### 🖼️ **[Image Resampler](https://github.com/RidheeshAmarthya/image-resampler)**  
@@ -18,7 +17,7 @@
 
 ---
 
-### 🔗 **[DCT DWT Image Compression](https://github.com/RidheeshAmarthya/DCT-DWT-compression)**  
+### 🔗 **[DCT DWT Image Compression](https://github.com/RidheeshAmarthya/DCT-DWT-compression)** 🖥️💻 *(C++)*  
 > Compares DCT (used in JPEG) and DWT (used in JPEG2000) image compression techniques, including progressive decoding analysis.
 
 ---
