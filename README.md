@@ -55,8 +55,3 @@ Segments image pixels based on hue thresholds in the HSV color space, providing 
 Compares DCT (used in JPEG) and DWT (used in JPEG2000) image compression techniques, including progressive decoding analysis.
 
 ---
-
-### ✨ Notes  
-Feel free to explore these projects and check out the repositories for detailed information and code!
-
----
