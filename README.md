@@ -6,9 +6,9 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/{RidheeshAmarthya}/count.svg)
 
-## 🚀 **Pinned Projects**
+## **Pinned Projects**
 
-[![My Cool App](https://github-readme-stats.vercel.app/api/pin/?username=username&repo=my-cool-app&theme=default)](https://github.com/username/my-cool-app)
+[![Weenix]]([https://github.com/username/my-cool-app](https://github.com/RidheeshAmarthya/weenix-public))
 
 [![Data Science Project](https://github-readme-stats.vercel.app/api/pin/?username=username&repo=data-science-project&theme=default)](https://github.com/username/data-science-project)
 
