@@ -2,9 +2,7 @@
 <h1> Hi, I’m Ridheesh 🐦 </h1> 
 </div>
 
-<div align="center">
   ![Visitor Count](https://profile-counter.glitch.me/{RidheeshAmarthya}/count.svg)
-</div>
 <img src="https://github.com/RidheeshAmarthya/RidheeshAmarthya/blob/main/wallpaper.gif">
 
 
