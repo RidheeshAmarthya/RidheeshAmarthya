@@ -8,8 +8,6 @@
 
 # 📌 **Cool Projects**
 
----
-
 ### 🖼️ **[Image Resampler](https://github.com/RidheeshAmarthya/image-resampler)**  
 > Implements various resampling techniques for upsampling or downsampling images using methods like bilinear, bicubic, and nearest-neighbor interpolation.
 
