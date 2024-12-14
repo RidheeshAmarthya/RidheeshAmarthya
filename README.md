@@ -11,8 +11,6 @@
 
 # 📌 **Pinned Projects**
 
----
-
 ### 🌌 **[Weenix Operating System](https://github.com/RidheeshAmarthya/weenix-public)**  
 > Developed a Unix-like kernel in C, designing core OS components like virtual memory, process scheduling, and a file system.  
 > Debugged low-level race conditions and optimized performance, showcasing mastery in systems programming and kernel architecture.
