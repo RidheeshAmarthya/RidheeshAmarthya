@@ -8,9 +8,7 @@
 
 ## **Pinned Projects**
 
-[![Weenix]]([https://github.com/username/my-cool-app](https://github.com/RidheeshAmarthya/weenix-public))
-
-[![Data Science Project](https://github-readme-stats.vercel.app/api/pin/?username=username&repo=data-science-project&theme=default)](https://github.com/username/data-science-project)
+[![Weenix](https://github-readme-stats.vercel.app/api/pin/?username=username&repo=data-science-project&theme=default)]([https://github.com/username/data-science-project](https://github.com/RidheeshAmarthya/weenix-public))
 
 [![AI Game Engine](https://github-readme-stats.vercel.app/api/pin/?username=username&repo=ai-game-engine&theme=default)](https://github.com/username/ai-game-engine)
 
