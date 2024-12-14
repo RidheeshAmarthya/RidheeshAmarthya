@@ -8,20 +8,6 @@
 
 # 📌 **Pinned Projects**
 
-### 🌌 **[Weenix Operating System](https://github.com/RidheeshAmarthya/weenix-public)**  
-> Developed a Unix-like kernel in C, designing core OS components like virtual memory, process scheduling, and a file system.  
-> Debugged low-level race conditions and optimized performance, showcasing mastery in systems programming and kernel architecture.
-
----
-
-### ☁️ **[Pseudo Cloud Height Assignment](https://github.com/RidheeshAmarthya/Pseudo-Cloud-Height-Assignment-ISRO)**  
-> Visualizes cloud heights using ISRO's INSAT 3DR infrared satellite data by applying a lapse rate model to calculate cloud altitudes and present them as a point cloud.
-
----
-
-### 🎮 **[Flappy Bird AI](https://github.com/RidheeshAmarthya/Flappy-Bird-AI)**  
-> Implemented an AI for Flappy Bird using the NEAT (NeuroEvolution of Augmenting Topologies) algorithm.
-
 ---
 
 ### 🧠 **[Neural Network From Scratch](https://github.com/RidheeshAmarthya/Neural_Network)**  
