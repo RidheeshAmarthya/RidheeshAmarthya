@@ -6,23 +6,7 @@
 <img src="https://github.com/RidheeshAmarthya/RidheeshAmarthya/blob/main/wallpaper.gif">
 
 
-# 📌 **Pinned Projects**
-
----
-
-### 🧠 **[Neural Network From Scratch](https://github.com/RidheeshAmarthya/Neural_Network)**  
-> Built a neural network from scratch using Python, including forward/backward propagation and customizable architectures.
-
----
-
-### 🚀 **[Sparky Game Engine](https://github.com/RidheeshAmarthya/Spark)**  
-> A custom 2D game engine built from scratch using C++ and OpenGL.  
-> Includes GLSL shader management, basic physics, and collision detection.
-
----
-
-### 🕹️ **[Super Resolution Game Engine](https://github.com/RidheeshAmarthya/Tookivi)**  
-> Forked from the Hazel engine, this project integrates a Python script for real-time super-resolution upscaling of game output resolution.
+# 📌 **Cool Projects**
 
 ---
 
