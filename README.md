@@ -1,7 +1,7 @@
 <div align="center">
 <h1> Hi, I’m Ridheesh 🐦 </h1> 
-</div>
-
+  
+<div align="center">
 ### *Visitor Number* 
 
 ![Visitor Count](https://profile-counter.glitch.me/{RidheeshAmarthya}/count.svg)
@@ -28,6 +28,8 @@
 > Implements various resampling techniques for upsampling or downsampling images using methods like bilinear, bicubic, and nearest-neighbor interpolation.
 
 ---
+
+</div>
 
 <style>
 .typing::after {
