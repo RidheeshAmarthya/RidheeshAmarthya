@@ -1,0 +1,25 @@
+<svg width="400" height="50" viewBox="0 0 400 50" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes typing {
+      from { width: 0; }
+      to { width: 100%; }
+    }
+    @keyframes blink {
+      50% { border-color: transparent; }
+    }
+    text {
+      font-size: 24px;
+      font-family: monospace;
+      fill: white;
+    }
+    .typing {
+      overflow: hidden;
+      display: inline-block;
+      white-space: nowrap;
+      border-right: 2px solid white;
+      animation: typing 3s steps(20, end) infinite alternate, blink 0.5s step-end infinite;
+    }
+  </style>
+  <rect width="100%" height="100%" fill="black"/>
+  <text x="20" y="35" class="typing">Building Systems...</text>
+</svg>
