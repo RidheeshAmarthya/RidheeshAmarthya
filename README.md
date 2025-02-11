@@ -1,20 +1,13 @@
 <div align="center">
-<h1> Hi, I’m Ridheesh 🐦 </h1> 
-  
-<div align="center">
-  
+<h1> Hello </h1> 
+
 ### *Visitor Number* 
 
 ![Visitor Count](https://profile-counter.glitch.me/{RidheeshAmarthya}/count.svg)
 
 <img src="https://github.com/RidheeshAmarthya/RidheeshAmarthya/blob/main/wallpaper.gif">
-
 </div>
 
-### **Building Systems...**
-<img src="https://github.com/RidheeshAmarthya/RidheeshAmarthya/blob/main/typing.svg">
-
----
 
 # **Project overflow from Pinned section**
 
