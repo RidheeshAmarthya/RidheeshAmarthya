@@ -5,7 +5,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/{RidheeshAmarthya}/count.svg)
 <img src="https://github.com/RidheeshAmarthya/RidheeshAmarthya/blob/main/wallpaper.gif">
 
-# **Cool Stuff**
+# **Project overflow from Pinned section**
 
 ### 🎥 **[DWT Video Compression](https://github.com/RidheeshAmarthya/DWT-VideoCompression)** *(C++)*  
 > DCT-based video compression system using motion vectors to encode raw RGB files. Integrated YCrCb color space transformation and audio sync.
