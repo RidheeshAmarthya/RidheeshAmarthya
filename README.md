@@ -1,7 +1,6 @@
 <div align="center">
 <h1> Hi, I’m Ridheesh 🐦 </h1> 
 </div>
-You are visitor number:
 ![Visitor Count](https://profile-counter.glitch.me/{RidheeshAmarthya}/count.svg)
 <img src="https://github.com/RidheeshAmarthya/RidheeshAmarthya/blob/main/wallpaper.gif">
 
