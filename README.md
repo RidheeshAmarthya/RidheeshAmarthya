@@ -8,8 +8,7 @@
 # **Cool Stuff**
 
 ### 🎥 **[DWT Video Compression](https://github.com/RidheeshAmarthya/DWT-VideoCompression)** *(C++)*  
-> Compares DCT (used in JPEG) and DWT (used in JPEG2000) image compression techniques, including progressive decoding analysis.
-
+> DCT-based video compression system using motion vectors to encode raw RGB files. Integrated YCrCb color space transformation and audio sync.
 ---
 
 ### 🖼️ **[DCT DWT Image Compression](https://github.com/RidheeshAmarthya/DCT-DWT-compression)** *(C++)*  
