@@ -11,6 +11,11 @@
 
 </div>
 
+### **Building Systems...**
+<img src="https://github.com/RidheeshAmarthya/RidheeshAmarthya/blob/main/typing.svg">
+
+---
+
 # **Project overflow from Pinned section**
 
 ### 🎥 **[DWT Video Compression](https://github.com/RidheeshAmarthya/DWT-VideoCompression)** *(C++)*  
