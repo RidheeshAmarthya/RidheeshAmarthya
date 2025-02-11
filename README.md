@@ -7,8 +7,9 @@
 
 # **Cool Stuff**
 
-### 🖼️ **[Image Resampler](https://github.com/RidheeshAmarthya/image-resampler)** *(C++)*  
-> Implements various resampling techniques for upsampling or downsampling images using methods like bilinear, bicubic, and nearest-neighbor interpolation.
+
+### 🔗 **[DCT DWT Image Compression](https://github.com/RidheeshAmarthya/DCT-DWT-compression)** *(C++)*  
+> Compares DCT (used in JPEG) and DWT (used in JPEG2000) image compression techniques, including progressive decoding analysis.
 
 ---
 
@@ -17,7 +18,8 @@
 
 ---
 
-### 🔗 **[DCT DWT Image Compression](https://github.com/RidheeshAmarthya/DCT-DWT-compression)** *(C++)*  
-> Compares DCT (used in JPEG) and DWT (used in JPEG2000) image compression techniques, including progressive decoding analysis.
+### 🖼️ **[Image Resampler](https://github.com/RidheeshAmarthya/image-resampler)** *(C++)*  
+> Implements various resampling techniques for upsampling or downsampling images using methods like bilinear, bicubic, and nearest-neighbor interpolation.
 
 ---
+
