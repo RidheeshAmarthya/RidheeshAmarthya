@@ -5,7 +5,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/{RidheeshAmarthya}/count.svg)
 <img src="https://github.com/RidheeshAmarthya/RidheeshAmarthya/blob/main/wallpaper.gif">
 
-# 📌 **Cool Projects**
+# **Cool Stuff**
 
 ### 🖼️ **[Image Resampler](https://github.com/RidheeshAmarthya/image-resampler)** *(C++)*  
 > Implements various resampling techniques for upsampling or downsampling images using methods like bilinear, bicubic, and nearest-neighbor interpolation.
