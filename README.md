@@ -1,8 +1,8 @@
 <div align="center">
 <h1> Hi, I’m Ridheesh 🐦 </h1> 
 </div>
-
-![Visitor Count](https://profile-counter.glitch.me/{RidheeshAmarthya}/count.svg) << Visitors!
+You are visitor number:
+![Visitor Count](https://profile-counter.glitch.me/{RidheeshAmarthya}/count.svg)
 <img src="https://github.com/RidheeshAmarthya/RidheeshAmarthya/blob/main/wallpaper.gif">
 
 # **Project overflow from Pinned section**
