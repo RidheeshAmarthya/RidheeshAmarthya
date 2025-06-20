@@ -1,5 +1,5 @@
 <div align="center">
-<h1> Hello there </h1> 
+<h1> Hi! </h1> 
 
 ### *Visitor Number* 
 
