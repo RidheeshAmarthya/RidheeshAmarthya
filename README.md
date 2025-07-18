@@ -1,10 +1,4 @@
 <div align="center">
-<h1> Hi! </h1> 
-
-### *Visitor Number* 
-
-![Visitor Count](https://profile-counter.glitch.me/{RidheeshAmarthya}/count.svg)
-
 <img src="https://github.com/RidheeshAmarthya/RidheeshAmarthya/blob/main/wallpaper.gif">
 </div>
 
